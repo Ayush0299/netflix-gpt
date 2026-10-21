@@ -1,16 +1,8 @@
 import { useState } from 'react'
-import './App.css'
+
+import Body from './components/Body'
 
 function App() {
-  return (
-    <>
-      <div className="text-3xl font-bold text-green-600">
-        <h1 className="text-3xl font-bold underline">
-          Hello world!
-        </h1>
-      </div>
-    </>
-  )
+  return <Body /> 
 }
-
 export default App

@@ -2,7 +2,19 @@
 # configure vite 
 - npm install tailwindcss @tailwindcss/vite
 - Header 
+- Routing of App
 - Login Form
+- Sign up Form
+- Form Validation
+- useref Hook
+- Firebase Setup
+- Deploying our app to production
+- Create Signup user Account
+- Implement Sign In user Api
+- Created Redux Store with userSlice
+- Implemented SignOut
+- Update Profile
+
 
 # Features
 - Login/Sign up

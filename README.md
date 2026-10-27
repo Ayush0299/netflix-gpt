@@ -1,6 +1,5 @@
 # create vite @latest
 # configure vite 
-- npm install tailwindcss @tailwindcss/vite
 - Header 
 - Routing of App
 - Login Form
